@@ -1,0 +1,29 @@
+.ml-auto {
+    margin-left: auto !important;
+}
+
+.ancor {
+    margin-left: 40px;
+}
+
+.navImg {
+    text-decoration: none;
+
+}
+
+.btn-nav {
+    padding: 7px 20px;
+    border-radius: 20px;
+    margin-right: 10px;
+    text-align: center;
+    border: 1px solid rgb(26, 31, 26);
+    color: white;
+}
+
+.btn-nav:hover {
+    background-color: rgb(7, 20, 12);
+}
+
+.text-white {
+    color: #000;
+}

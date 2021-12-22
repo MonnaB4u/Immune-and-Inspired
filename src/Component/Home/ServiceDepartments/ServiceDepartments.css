@@ -1,0 +1,29 @@
+.serviceLinetext{
+    color: green;
+    font-size: 20px;
+}
+.servicetextline{
+    width: 53px;
+    height: 0px !important;
+    border: 1px solid green;
+    background-color: green;
+    margin: 3px;
+    display: inline-block;
+}
+.box{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    box-shadow: 1px 1px 0px 1px rgb(231, 224, 224);
+}
+
+.detailsbtn{
+    padding: 5px  15px;
+    text-align: center;
+    border-radius: 20px;
+    background-color:rgb(46,139,87);
+    border: none;
+    color: #fff;
+    box-shadow: 1px 1px 0px 1px green;
+}

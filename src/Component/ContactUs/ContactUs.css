@@ -1,0 +1,27 @@
+.contactUSHeader{
+
+}
+.text-justify{
+    text-indent: 30px;
+    text-align: center;
+    text-size-adjust: auto;
+}
+.cardss{
+   background-color: rgb(226, 241, 226);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 3px 5px -2px gray;
+}
+.cardss:hover{
+     box-shadow: 0 5px 10px -2px gray;
+}
+.log1{
+    border-radius: 5px;
+}
+.conform{
+background-color: rgb(226, 241, 226);
+}
+.cotfor{
+    background-color: #fff;
+    border-radius: 5px;
+}

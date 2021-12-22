@@ -1,0 +1,40 @@
+.loginHeader {
+    background-color: rgb(228, 255, 228);
+    box-shadow: 0 4px 10px -2px gray;
+}
+
+.Fornminput {
+    text-align: center;
+}
+
+.signInput {
+    padding: 7px 40px;
+    border: none;
+    border-radius: 20px;
+    border: 1px solid green;
+}
+
+.Signbtn {
+    padding: 7px 30px;
+    border: none;
+    border-radius: 20px;
+}
+
+.gg {
+    font-size: 30px;
+    cursor: pointer;
+
+}
+
+.logicon {
+    display: grid;
+    grid-auto-flow: column;
+    grid-column-gap: 15px;
+}
+
+.linesign {
+    display: inline-block;
+    width: 100%;
+    border: 1px solid green;
+    border-radius: 5px
+}

@@ -1,0 +1,72 @@
+.bg-c {
+    background-color: 	#F8F8FF;
+}
+
+.line {
+    width: 53px;
+    height: 0px;
+    border: 1px solid rgb(8, 141, 8);
+    background-color: rgb(9, 110, 6);
+    margin: 3px;
+    display: inline-block;
+}
+
+.or {
+ display: inline-block;
+}
+
+.or h3 {
+    color: rgb(98, 156, 102);
+}
+
+.para p {
+    font-size: 25px;
+}
+
+.para img {
+    width: 70%;
+    border-radius: 25px;
+
+}
+
+.para img:hover {
+    -ms-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    transform: scale(1.1);
+    transition: transform 0.9s;
+
+}
+
+.listss li {
+    list-style-type: none;
+}
+
+.t-bold {
+    font-weight: bold;
+}
+.lets{
+    font-size: 15px;
+}
+/* .text {
+    align-items: center;
+    width: 100%;
+} */
+.d-flexx {
+
+    text-indent: 30px;
+    text-align: center;
+}
+.icoste{
+    margin-left: 10px;
+}
+.AppointmentBtn{
+   padding: 7px 20px;
+    /* font-weight: bold; */
+    font-size:17px;
+    border: none;
+    text-align: center;
+    border-radius: 20px;
+    display: block;
+    background-color: rgb(47, 163, 47);
+    color: rgb(236, 226, 226);
+}

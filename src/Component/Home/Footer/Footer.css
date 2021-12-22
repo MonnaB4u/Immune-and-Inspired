@@ -1,0 +1,8 @@
+/* .smallx{
+  text-indent: 20px;
+} */
+.beliefs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 20px;
+}

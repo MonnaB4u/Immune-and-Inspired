@@ -1,0 +1,46 @@
+.AppointmentHeader {
+    /* height: 64vh; */
+    background-color: rgb(146, 197, 190);
+    /* background-color: rgb(85, 121, 85); */
+}
+
+.titleone {
+    text-align: center;
+    letter-spacing: 4px;
+    font-size:  30px;
+
+}
+
+.reginputdiv {
+    text-align: center;
+}
+
+.reginput {
+    padding: 5px 50px;
+    border-radius: 9px;
+    border: none;
+
+}
+
+.dateTime {
+    padding: 4px 10px;
+    border-radius: 9px;
+    border: none;
+    color: rgb(17, 146, 17);
+}
+
+.messagetype {
+    border-radius: 3px;
+    border: none;
+    color: rgb(10, 82, 10);
+    text-align: center;
+
+}
+.reginputdiv p{
+    color: rgb(8, 128, 8);
+}
+.appointmentbtn{
+    padding: 3px 40px;
+    border-radius: 5px;
+
+}
