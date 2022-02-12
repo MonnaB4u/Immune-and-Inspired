@@ -10,4 +10,4 @@ https://priceless-dubinsky-ec5969.netlify.app/
 * This app contains different information for the for the hospital Immune and Inspired.
 * I have used font-awesome for icons. And also used bootStrap for responsiveness and design.
 * I have used react-router-dom v6 to make this single page website.
->>>>>>> 3f59f1165e8a5b1d24ab803738995eda597c0674
+
